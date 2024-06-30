@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "92205599641",
+    "project_id": "apna-vaidya-task",
+    "storage_bucket": "apna-vaidya-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92205599641:android:16b4b350013008b2c0a108",
+        "android_client_info": {
+          "package_name": "com.example.apna_vaidya_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6KXJaYIS6RUBpfm0d-Pycoj9mj5rQFck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
